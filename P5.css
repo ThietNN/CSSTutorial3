@@ -1,0 +1,20 @@
+#heading{
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: solid;
+    border-width: medium;
+    font-size: 300%;
+}
+#quotes{
+    text-align: left;
+    font-style: italic;
+    text-indent: 0px;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+}
+.bold{
+    font-weight: bold;
+}
